@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: manjuz/gitopsactions:17
+      - image: manjuz/gitops:4
         name: flaskdemo
         resources: {}
 status: {}
